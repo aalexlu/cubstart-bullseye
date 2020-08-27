@@ -55,6 +55,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func sliderValueChanged(_ sender: Any) {
+//        numLabel.text = "\(Int(numSlider.value))"
     }
 }
 
