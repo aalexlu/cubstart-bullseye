@@ -1,5 +1,5 @@
 # Cubstart Lab: Building Bullseye
 
-Using IBOutlets and IBActions with labels, buttons, and sliders  
+Building with IBOutlets and IBActions with labels, buttons, and sliders; adding constraints.
 
-Basic constraints  
+Credits: Avinash Jain
