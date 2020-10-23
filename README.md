@@ -2,4 +2,13 @@
 
 Building with IBOutlets and IBActions with labels, buttons, and sliders; adding constraints.
 
-Credits: Avinash Jain
+## Simulator
+
+<img src="images/vc.png" alt="vc" style="width:100px;" />
+
+<img src="images/vc2.png" alt="vc2" style="width:100px;" />
+
+## Credits
+
+Avinash Jain
+
