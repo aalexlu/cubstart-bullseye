@@ -10,5 +10,5 @@ Building with IBOutlets and IBActions with labels, buttons, and sliders; adding 
 
 ## Credits
 
-Avinash Jain
+Concept: Avinash Jain, TheCodex
 
